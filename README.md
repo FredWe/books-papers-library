@@ -1,3 +1,1 @@
-# fredLibrary
-fredLibrary for books
-
+A library for books & papers
